@@ -1,0 +1,51 @@
+{
+  "notice": "Assessment prototype taxonomy. Validate all service descriptions with Cynbit before production use.",
+  "services": [
+    {
+      "name": "AI Automation",
+      "keywords": [
+        "AI chatbot",
+        "automation",
+        "AI assistant",
+        "agent",
+        "workflow"
+      ]
+    },
+    {
+      "name": "Custom Software Development",
+      "keywords": [
+        "website",
+        "web app",
+        "application",
+        "software",
+        "platform"
+      ]
+    },
+    {
+      "name": "Digital Marketing & SEO",
+      "keywords": [
+        "SEO",
+        "marketing",
+        "content",
+        "advertising"
+      ]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "keywords": [
+        "cloud",
+        "hosting",
+        "server",
+        "deployment"
+      ]
+    },
+    {
+      "name": "SaaS / Product Development",
+      "keywords": [
+        "SaaS",
+        "subscription product",
+        "product development"
+      ]
+    }
+  ]
+}
